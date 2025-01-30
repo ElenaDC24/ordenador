@@ -27,10 +27,7 @@ public class Ordenador {
 		this.precio = precio;
 	}
 	
-	public Ordenador(String marca) {
-		super();
-		this.marca = marca;
-	}
+	
 public Ordenador() {
 	super();
 }
